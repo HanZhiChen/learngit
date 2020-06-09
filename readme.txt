@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick and simple.
 Test no fast froward.
 This is a dev mod.
+This line from clone git repository branch dev.
